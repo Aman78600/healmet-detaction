@@ -1,5 +1,5 @@
 ultralytics
-streamlit>=1.40.2
+streamlit
 opencv-python-headless
 roboflow
 numpy
