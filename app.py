@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
 import numpy as np
 import streamlit.components.v1 as components
 from ultralytics import YOLO
+import cv2
 # Load model details from pickle file
 def model(model_path):
     try:
