@@ -312,5 +312,5 @@ def footer():
 # Run the app
 if __name__ == "__main__":
     nev()
-    main('model\healmet_detaction.pt')
+    main('healmet_detaction.pt')
     footer()
