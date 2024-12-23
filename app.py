@@ -1,8 +1,6 @@
 import streamlit as st
 import cv2
 import numpy as np
-import os
-import tempfile
 import streamlit.components.v1 as components
 from ultralytics import YOLO
 # Load model details from pickle file
